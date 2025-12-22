@@ -10,4 +10,11 @@ tensorboard 2.17.0
 
 
 images: Image information used for testing tasks.
-0model_best.pth.tar：Model weights used for testing
+gt: Density map in .h5 format.
+0model_best.pth.tar：Model weights used for testing.
+model.py: Model file.
+test.py: test file.
+
+Testing Process
+Try to start testing process. python test.py
+
